@@ -1,0 +1,20 @@
+.title {
+    font-family: "Comic Sans MS";
+    color: rgb(88, 196, 76);
+}
+  .navigation {
+    font-family: "Comic Sans MS";
+    background-color: rgb(101, 101, 235);
+    font-size: 20px;
+
+  }
+.navigation a:hover{
+    color: #942525 !important;
+    font-size: 25px !important;
+}
+  .color li a {
+    color: rgb(88, 196, 76);
+    padding-left: 50px;
+    padding-right: 50px;
+
+  }
